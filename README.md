@@ -7,7 +7,12 @@
 ### Complete guide from App Store Optimization to UGC operations, multi-platform content strategy, and AI-powered scaling
 
 [![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-aso-growth?style=social)](https://github.com/Gingiris/gingiris-aso-growth/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-aso-growth?style=social)](https://github.com/Gingiris/gingiris-aso-growth/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/Gingiris/gingiris-aso-growth?style=social)](https://github.com/Gingiris/gingiris-aso-growth/watchers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gingiris/gingiris-aso-growth/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/Gingiris/gingiris-aso-growth?color=blue)](https://github.com/Gingiris/gingiris-aso-growth/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/Gingiris/gingiris-aso-growth?color=orange)](https://github.com/Gingiris/gingiris-aso-growth/graphs/contributors)
 
 **[English](#english) | [中文](#中文版)**
 
