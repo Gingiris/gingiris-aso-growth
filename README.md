@@ -194,6 +194,7 @@ Want all four playbooks in one comprehensive package? Get the **Open-Source Proj
 - [gingiris-launch](https://github.com/Gingiris/gingiris-launch) — AI Product Global Launch Playbook
 - [gingiris-opensource](https://github.com/Gingiris/gingiris-opensource) — Open Source Launch Marketing
 - [gingiris-b2b-growth](https://github.com/Gingiris/gingiris-b2b-growth) — B2B SaaS Growth Playbook
+- [gingiris-user-interview](https://github.com/Gingiris/gingiris-user-interview) — User Interview Playbook
 
 ---
 
