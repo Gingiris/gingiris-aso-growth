@@ -163,6 +163,14 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 
 ---
 
+---
+
+## 📚 Get the Complete Playbook
+
+Want all four playbooks in one comprehensive package? Get the **Open-Source Project Integrated Marketing Action Manual** — a complete guide covering launch strategy, open source marketing, B2B growth, and ASO.
+
+[![Get the Playbook](https://img.shields.io/badge/Get_the_Playbook-Gumroad-ff90e8?style=for-the-badge&logo=gumroad)](https://gingiris.gumroad.com/l/vhmkew)
+
 ## About the Author
 
 **Iris (生姜iris)** — Former cofounder & COO of AFFiNE, led global go-to-market from 0 to millions of users.
