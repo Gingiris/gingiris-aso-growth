@@ -21,6 +21,18 @@
 
 ---
 
+> 🌱 **Our Philosophy**
+> 
+> *"创业没有那么高大上，创业就是做生意。"* — Startups aren't glamorous; they're just business.
+> 
+> *"痛点永远比痒点值钱。"* — Pain points are always worth more than nice-to-haves.
+> 
+> *"用户至上，始于价值。"* — User first, start with value.
+> 
+> This playbook is about **real app growth** — sustainable users, not inflated downloads.
+
+---
+
 > 💡 **Need a 1-on-1 architecture call for your B2B/Open-source launch? Book a session for $200** (Crypto/USDT and Wire Transfer accepted) — [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot)
 
 ---
@@ -59,6 +71,17 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 | 📱 **Multi-Platform Content** | TikTok / Instagram / YouTube Shorts strategies |
 | 🤖 **AI Matrix Accounts** | AI video production, account nurturing, clone app tactics |
 | ⚖️ **Platform Comparison** | App Store vs Google Play algorithm differences |
+
+### 🤝 Community Success Stories
+
+Real results from app developers using this playbook:
+
+| App | Result | Story |
+|-----|--------|-------|
+| *Your app here* | — | [Share yours →](https://github.com/Gingiris/gingiris-aso-growth/issues/new?labels=success-story\&title=🎉+Success+Story:+[Your+App]) |
+
+> 📢 **Grew your app with this playbook?** We'd love to feature your story! [Submit your case study](https://github.com/Gingiris/gingiris-aso-growth/issues/new?labels=success-story\&title=🎉+Success+Story:+[Your+App])
+
 
 ---
 
