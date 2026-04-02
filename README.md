@@ -2,12 +2,18 @@
 
 <img src="assets/logo.png" alt="Gingiris Logo" width="120" />
 
-# 📱 ASO & App Cold Start Playbook
+# App Store Optimization (ASO) Playbook
 
-### Complete guide from App Store Optimization to UGC operations, multi-platform content strategy, and AI-powered scaling
+### Complete ASO guide + mobile app cold start strategy — keyword research, UGC growth, TikTok/Instagram/YouTube marketing
 
 [![GitHub stars](https://img.shields.io/github/stars/Gingiris/gingiris-aso-growth?style=social)](https://github.com/Gingiris/gingiris-aso-growth/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/Gingiris/gingiris-aso-growth?style=social)](https://github.com/Gingiris/gingiris-aso-growth/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/Gingiris/gingiris-aso-growth?style=social)](https://github.com/Gingiris/gingiris-aso-growth/watchers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Website](https://img.shields.io/badge/Website-gingiris.com-blue)](https://www.gingiris.com)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Gingiris/gingiris-aso-growth/pulls)
+[![Last Commit](https://img.shields.io/github/last-commit/Gingiris/gingiris-aso-growth?color=blue)](https://github.com/Gingiris/gingiris-aso-growth/commits/main)
+[![Contributors](https://img.shields.io/github/contributors/Gingiris/gingiris-aso-growth?color=orange)](https://github.com/Gingiris/gingiris-aso-growth/graphs/contributors)
 
 **[English](#english) | [中文](#中文版)**
 
@@ -19,30 +25,114 @@
 >
 > Or visit **[gingiris.com](https://gingiris.com/en)** — Iris's consulting practice with 1:1 sessions, startup coaching, and enterprise retainer options.
 
+## Table of Contents
+
+- [Why This Playbook](#why-this-playbook)
+- [What You'll Learn](#what-youll-learn)
+- [Success Stories](#-projects-using-this-aso-playbook)
+- [English Guide](#english)
+  - [Core Principles](#core-principles)
+  - [Cold Start Timeline](#cold-start-timeline)
+  - [ASO Tools](#aso-tools)
+  - [Platform Comparison](#app-store-vs-google-play)
+- [中文版](#中文版)
+- [Use with AI Agents](#-use-with-ai-agents)
+- [Get the Complete Playbook](#-get-the-complete-playbook)
+- [About the Author](#about-the-author)
+- [Related Playbooks](#related-playbooks)
+
+---
+
+> 💡 **Why Star this?** 
+> *   **Battle-Tested ASO**: Real app store optimization strategies that drive organic downloads
+> *   **Cold Start Playbook**: From zero to first 10k users without burning budget
+> *   **Multi-Platform**: TikTok, Instagram, YouTube Shorts growth tactics included
+
+---
+
+> 🌱 **Our Philosophy**
+> 
+> *"创业没有那么高大上，创业就是做生意。"* — Startups aren't glamorous; they're just business.
+> 
+> *"痛点永远比痒点值钱。"* — Pain points are always worth more than nice-to-haves.
+> 
+> *"用户至上，始于价值。"* — User first, start with value.
+> 
+> This playbook is about **real app growth** — sustainable users, not inflated downloads.
+
+---
+
+> 💼 **Work With Iris**
+>
+> **1. Strategic Consultation (1v1)**
+> | Session | Price | Best For |
+> |:--------|:------|:---------|
+> | Quick Call (30 min) | $150 USD | Specific questions, quick diagnosis |
+> | Deep Dive (60 min) | $300 USD | Full strategy review, detailed roadmap |
+>
+> **2. Advisory Retainer**
+> | Plan | Price | Includes |
+> |:-----|:------|:---------|
+> | Monthly Retainer | $1,500 USD/mo | Up to 5 hours strategic consultation + key milestone reviews |
+>
+> **3. Playbooks & Templates**
+> | Package | Price | Contents |
+> |:--------|:------|:---------|
+> | Starter Pack | $29 USD | Core methodology + essential tools |
+> | Flagship Bundle | $199 USD | Complete SOP, competitor research framework, templates |
+>
+> 📩 [Contact @Iris_carrot on Telegram](https://t.me/Iris_carrot) — Crypto/USDT and Wire Transfer accepted
+
+---
+
+## Why This Playbook?
+
+Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://github.com/toeverything/AFFiNE) (60k+ stars). This app store optimization playbook documents battle-tested ASO strategies and mobile app growth tactics.
+
+### What You'll Learn
+
+| Module | Key Content |
+|:-------|:------------|
+| 🔍 **ASO Fundamentals** | App store page optimization, keyword research, rating optimization, chart ranking |
+| 🚀 **Cold Start Strategy** | Organic First principle, channel matrix, App vs Web differences |
+| 👥 **UGC Operations** | Creator sourcing, pricing & incentives, management architecture |
+| 📱 **Multi-Platform Content** | TikTok / Instagram / YouTube Shorts strategies |
+| 🤖 **AI Matrix Accounts** | AI video production, account nurturing, scaling tactics |
+| ⚖️ **Platform Comparison** | App Store vs Google Play algorithm differences |
+
+---
+
+## 🚀 Projects Using This ASO Playbook
+
+Real app store optimization results from developers using this playbook:
+
+<div align="center">
+<img src="assets/logo-wall.jpg" alt="Apps using this ASO playbook" width="100%" />
+</div>
+
+**Featured Apps**: Spark Lab • Bonjour! • Nomofly • PaperGen • Kigland • EezyCollab • KusaPics • Trickle • Buddie • Jazz • 万物时 • Sheet0 • Teabie • MolyPix.AI • TANKA • BoomCut • Wegic • Kuse • 观擦 • Medeo • memU • CAMEL-AI • Second Me • Leapility • OpenAgents • TEN-framework • Datastrato • 小浣熊 *and more...*
+
+> 📢 **Grew your app with this playbook?** We'd love to feature your story! [Submit your case study](https://github.com/Gingiris/gingiris-aso-growth/issues/new?labels=success-story&title=🎉+Success+Story:+[Your+App])
+
 ---
 
 ## ⭐ Star This Repo
 
 <img width="100%" src="assets/star.png" alt="Star this repo" />
 
-If you find this playbook useful, a GitHub Star ⭐ helps others discover it!
+If you find this ASO playbook useful, a GitHub Star ⭐ helps others discover it!
 
 ---
 
-## Why This Playbook?
+## 🦞 Use with AI Agents
 
-Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://github.com/toeverything/AFFiNE) (60k+ stars). This playbook documents battle-tested ASO and App growth strategies, compiled from expert sessions and industry best practices.
+This app store optimization playbook is available as a **ClawdHub Skill** — install it directly into Claude Code, OpenClaw, or any compatible AI agent:
 
-### What You'll Learn
+```bash
+clawhub install gingiris-aso-growth
+```
 
-| Module | Key Content |
-|--------|-------------|
-| 🔍 **ASO Basics** | Store page optimization, keyword research, rating optimization, chart ranking rules |
-| 🚀 **Cold Start Strategy** | Organic First principle, channel matrix, App vs Web differences |
-| 👥 **UGC Operations** | Creator sourcing, pricing & incentives, management architecture |
-| 📱 **Multi-Platform Content** | TikTok / Instagram / YouTube Shorts strategies |
-| 🤖 **AI Matrix Accounts** | AI video production, account nurturing, clone app tactics |
-| ⚖️ **Platform Comparison** | App Store vs Google Play algorithm differences |
+> Your AI agent can then help you optimize app store listings, research keywords, and plan UGC campaigns.
 
 ---
 
@@ -52,15 +142,17 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 
 ### Core Principles
 
-- **Organic First** — Validate content models organically before scaling with paid ads
-- **Winning Format** — Find what works, then replicate at scale through UGC creators
-- **Platform-Native** — Tailor content for each platform's unique algorithm and audience
-- **Data-Driven** — Use ASO tools to find high-volume, low-competition keywords
+| Principle | Description |
+|:----------|:------------|
+| **Organic First** | Validate content models organically before scaling with paid ads |
+| **Winning Format** | Find what works, then replicate at scale through UGC creators |
+| **Platform-Native** | Tailor content for each platform's unique algorithm and audience |
+| **Data-Driven** | Use ASO tools to find high-volume, low-competition keywords |
 
 ### Cold Start Timeline
 
 | Phase | Timing | Key Focus |
-|:---|:---|:---|
+|:------|:-------|:----------|
 | 🧪 Testing | Day 0 - Month 1 | Founder runs accounts, finds Winning Format |
 | ✅ Validation | Month 1-3 | Recruit UGC creators, replicate success |
 | 📈 Scaling | Month 3+ | Paid ads, influencer marketing, AI matrix |
@@ -68,7 +160,7 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 ### Three Major Platforms Compared
 
 | Platform | User Age | Conversion Rate | Key Metrics |
-|:---|:---|:---|:---|
+|:---------|:---------|:----------------|:------------|
 | **TikTok** | 13-18 | Lowest | Completion rate, Share rate |
 | **Instagram** | 18-25 | Medium | Share Rate, Like Rate |
 | **YouTube Shorts** | 25-35 | Highest | First 3-sec retention |
@@ -76,17 +168,27 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 ### ASO Tools
 
 | Tool | Pricing | Best For |
-|:---|:---|:---|
+|:-----|:--------|:---------|
 | [Astro](https://tryastro.app/) | ~$80-90/yr | Indie developers, budget-friendly |
 | [点点数据](https://www.diandian.com/) | Custom | Chinese tool, global data |
 | [AppTweak](https://www.apptweak.com/) | Custom | AI insights, enterprise |
 | [AppFollow](https://appfollow.io/) | Custom | Review management + keywords |
 
+### App Store vs Google Play
+
+| Dimension | App Store | Google Play |
+|:----------|:----------|:------------|
+| **Algorithm Core** | Metadata exact match | Text understanding + technical performance |
+| **Keyword Strategy** | Concise, weight priority | Comprehensive, density priority |
+| **Description Role** | Doesn't affect search ranking | **Long description is key** |
+| **Technical Metrics** | Indirect impact | **Android Vitals directly affects ranking** |
+| **A/B Testing** | PPO (requires review) | Store listing experiments (no review needed) |
+
 ### Detailed Guides (English)
 
-| Topic | File |
-|:---|:---|
-| Full Guide | [references/full-guide-zh.md](references/full-guide-zh.md) |
+| Topic | Description | File |
+|:------|:------------|:-----|
+| Full ASO Guide | Complete app store optimization guide | [references/full-guide-zh.md](references/full-guide-zh.md) |
 
 ---
 
@@ -96,15 +198,17 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 
 ### 核心原则
 
-- **先有机，后付费** — 先通过有机方式验证内容模型，再用付费方式规模化
-- **找到 Winning Format** — 创始人亲自测试，找到爆款模板后复制给 UGC 创作者
-- **平台原生化** — 针对每个平台的算法和用户特性定制内容
-- **数据驱动** — 用 ASO 工具找到搜索量高、竞争难度低的关键词
+| 原则 | 说明 |
+|:-----|:-----|
+| **先有机，后付费** | 先通过有机方式验证内容模型，再用付费方式规模化 |
+| **找到 Winning Format** | 创始人亲自测试，找到爆款模板后复制给 UGC 创作者 |
+| **平台原生化** | 针对每个平台的算法和用户特性定制内容 |
+| **数据驱动** | 用 ASO 工具找到搜索量高、竞争难度低的关键词 |
 
 ### 冷启动时间线
 
 | 阶段 | 时间 | 核心任务 |
-|:---|:---|:---|
+|:-----|:-----|:---------|
 | 🧪 测试期 | Day 0 - 1个月 | 创始人亲自运营账号，找到 Winning Format |
 | ✅ 验证期 | 1-3个月 | 招募 UGC 创作者，复制成功模板 |
 | 📈 规模化 | 3个月+ | 付费投流、红人合作、AI 矩阵号 |
@@ -112,7 +216,7 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 ### 三大短视频平台对比
 
 | 平台 | 用户年龄 | 付费转化率 | 核心指标 |
-|:---|:---|:---|:---|
+|:-----|:---------|:-----------|:---------|
 | **TikTok** | 13-18岁 | 最低 | 完播率、分享率 |
 | **Instagram** | 18-25岁 | 中等 | Share Rate、Like Rate |
 | **YouTube Shorts** | 25-35岁 | 最高 | 前3秒停留率、完播率 |
@@ -121,9 +225,8 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 
 **基础定价**：$10-20/条
 
-**激励方案示例**：
 | 播放量 | 奖励 |
-|:---|:---|
+|:-------|:-----|
 | 基础 | $20 |
 | 1 万 | +$20 |
 | 10 万 | +$50 |
@@ -132,7 +235,7 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 ### App Store vs Google Play
 
 | 维度 | App Store | Google Play |
-|:---|:---|:---|
+|:-----|:----------|:------------|
 | **算法核心** | 元数据精确匹配 | 文本内容理解 + 技术性能 |
 | **关键词策略** | 精简、权重优先 | 全面、密度优先 |
 | **描述作用** | 不影响搜索排名 | **长描述是关键** |
@@ -141,9 +244,17 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 
 ### 详细指南（中文）
 
-| 主题 | 文件 |
-|:---|:---|
-| 完整指南 | [references/full-guide-zh.md](references/full-guide-zh.md) |
+| 主题 | 说明 | 文件 |
+|:-----|:-----|:-----|
+| 完整 ASO 指南 | 应用商店优化完整指南 | [references/full-guide-zh.md](references/full-guide-zh.md) |
+
+---
+
+## 📚 Get the Complete Playbook
+
+Want all four playbooks in one comprehensive package? Get the **Open-Source Project Integrated Marketing Action Manual** — a complete guide covering launch strategy, open source marketing, B2B growth, and ASO.
+
+[![Get the Playbook](https://img.shields.io/badge/Get_the_Playbook-Gumroad-ff90e8?style=for-the-badge&logo=gumroad)](https://gingiris.gumroad.com/l/vhmkew)
 
 ---
 
@@ -151,28 +262,26 @@ Created by **Iris (生姜iris)**, former cofounder & COO of [AFFiNE](https://git
 
 **Iris (生姜iris)** — Former cofounder & COO of AFFiNE, led global go-to-market from 0 to millions of users.
 
-- 💬 Telegram: [@Iris_carrot](https://t.me/Iris_carrot)
-- 📱 即刻: 生姜iris
-- 📧 公众号: 云宝的桃花坞
-
-### Consulting
-
-| Service | Price |
-|:---|:---|
-| 30-min Session | ¥800 |
-| 60-min Session | ¥1,500 |
-| Monthly Retainer (≤5h) | ¥7,000 |
+| Platform | Link |
+|:---------|:-----|
+| 🐦 Twitter | [@WeiYipei](https://x.com/WeiYipei) |
+| 💬 Telegram | [@Iris_carrot](https://t.me/Iris_carrot) |
+| 📱 即刻 | 生姜iris |
+| 📧 公众号 | 云宝的桃花坞 |
 
 ---
 
 ## Related Playbooks
 
-- [gingiris-launch](https://github.com/Gingiris/gingiris-launch) — AI Product Global Launch Playbook
-- [gingiris-opensource](https://github.com/Gingiris/gingiris-opensource) — Open Source Launch Marketing
-- [gingiris-b2b-growth](https://github.com/Gingiris/gingiris-b2b-growth) — B2B SaaS Growth Playbook
+| Playbook | Focus | Link |
+|:---------|:------|:-----|
+| gingiris-launch | Go-to-Market Strategy Playbook | [GitHub](https://github.com/Gingiris/gingiris-launch) |
+| gingiris-opensource | Open Source Launch Marketing | [GitHub](https://github.com/Gingiris/gingiris-opensource) |
+| gingiris-b2b-growth | B2B SaaS Growth Playbook | [GitHub](https://github.com/Gingiris/gingiris-b2b-growth) |
+| gingiris-user-interview | User Interview Playbook | [GitHub](https://github.com/Gingiris/gingiris-user-interview) |
 
 ---
 
 ## License
 
-MIT License - Feel free to use and adapt!
+MIT License - Feel free to use and adapt for your app store optimization!
