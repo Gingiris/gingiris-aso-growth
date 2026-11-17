@@ -177,6 +177,7 @@ clawhub install gingiris-aso-growth
 | [点点数据](https://www.diandian.com/) | Custom | Chinese tool, global data |
 | [AppTweak](https://www.apptweak.com/) | Custom | AI insights, enterprise |
 | [AppFollow](https://appfollow.io/) | Custom | Review management + keywords |
+| [App Store Localizer](https://asolocalization.com) | $19.99-$99.99 one-time | Listing localization: translated screenshots + metadata per locale |
 
 ### App Store vs Google Play
 
